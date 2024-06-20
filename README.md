@@ -6,7 +6,7 @@ University of Technology for the Computer Graphics and Visualization Course.
 The purpose of the app is to store finished projects so that they can be nicely displayed and easily shared, referenced
 to future employers or just stored.
 
-A full Documentation of the usage and available options of Project Portfolio Management System is available on the wiki.
+A full [Documentation](documentation.md) of the usage and available options of Project Portfolio Management System is available on the wiki.
 For help on the most common questions, please refer to the FAQ document.
 
 Today, Project Portfolio Management System is used as a publishing project platform by users worldwide.
